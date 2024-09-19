@@ -19,7 +19,11 @@
         <span class="ml-0.5">yooson 2024</span>
       </div>
     </div>
-    <a href="http://beian.miit.gov.cn/" target="_blank"
-      class="text-blue-600 hover:underline visited:text-purple-600">沪ICP备2024080497号</a>
+    <div class="flex items-center text-blue-600 hover:underline visited:text-purple-600">
+      <a href="http://beian.miit.gov.cn/" target="_blank">沪ICP备2024080497号</a>
+      <img src="./assets/beian.png" alt="beian" class="w-4 h-4 mx-1" />
+      <a href="https://beian.mps.gov.cn/#/query/webSearch?code=31011702889871" rel="noreferrer"
+        target="_blank">沪公网安备31011702889871</a>
+    </div>
   </footer>
 </template>
